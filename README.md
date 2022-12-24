@@ -11,3 +11,5 @@ Download from Code in the upper right, green button Download ZIP
 ![20221224_01](https://user-images.githubusercontent.com/62424367/209426308-4b3b6a5e-92ac-4915-a80a-a57bfcfe3e8c.jpg)
 
 You need UE5.1.0 or higher version to start the project.
+
+Double-click UE5_2DPlatformer.uproject to start it.
