@@ -11,12 +11,3 @@ Download from Code in the upper right, green button Download ZIP
 ![20221224_01](https://user-images.githubusercontent.com/62424367/209426308-4b3b6a5e-92ac-4915-a80a-a57bfcfe3e8c.jpg)
 
 You need UE5.1.0 or higher version to start the project.
-
-# 日本語
-
-Unreal Engine 5 の Enhanced Input に対応した、シンプルな2D横スクロールゲームのテンプレートを組んでみました。
-UE5の2Dテンプレートが無くて困っている人がいたら、データを確認してみてください。
-
-ダウンロードは、右上、緑色のボタンのCodeから Download ZIP
-
-プロジェクトの起動には、UE5.1.0以上のバージョンが必要です。
